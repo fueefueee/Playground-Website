@@ -1,0 +1,5 @@
+/* Admin extra styles */
+.admin-layout { background: var(--black); }
+.admin-sidebar { padding-bottom: 2rem; }
+.admin-nav a svg { opacity: 0.6; }
+.admin-nav a:hover svg, .admin-nav a.active svg { opacity: 1; }
