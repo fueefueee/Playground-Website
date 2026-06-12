@@ -12,7 +12,7 @@ The Team
 ---
 
 What We Used to Build This
-* HTML: For structured, clean, and semantic web layouts.
+* PHP: For backend server-side logic, data processing, and structural routing.
 * CSS: For all the styling, custom layouts, and making sure the design looks good and fits perfectly on both desktop monitors and mobile phone screens.
 * JavaScript: Used for managing the interactive elements, DOM manipulation, handling dynamic states, and keeping user transitions running smoothly.
 
